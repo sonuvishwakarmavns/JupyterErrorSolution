@@ -1,27 +1,25 @@
 # JupyterError
-file not found It may have been moved, edited, or deleted. ERR_FILE_NOT_FOUND in anaconda jupyter notebook opening stack overflow
+**File not found. It may have been moved, edited, or deleted. ERR_FILE_NOT_FOUND in Anaconda Jupyter Notebook**
 
-#  Q) file not found It may have been moved, edited, or deleted. ERR_FILE_NOT_FOUND in anaconda jupyter notebook
+## Q) File not found. It may have been moved, edited, or deleted. ERR_FILE_NOT_FOUND in Anaconda Jupyter Notebook
+**@creator**: Sonu Vishwakarma  
+**GitHub**: [@sonuvishwakarmavns](https://github.com/sonuvishwakarmavns)
 
+## Answer: Follow these steps:
 
-# @creator -Sonu Vishwakarma
-## Github : @sonuvishwakarmavns
-
-# Answer -
-
-## Table of Contents
+### Table of Contents
 - [Steps](#steps)
-
 - [Contact](#contact)
 
-
 ## Steps
+1. **Press Windows + R**: Type `appdata` and hit OK.
+   
+   ![Run Command Image](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/cmd.png)
+   ![AppData Image](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/appdata.png)
 
-- press window + R button type  appdata hit ok.
-
-![runcommond img](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/cmd.png)
-
-![appdata img](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/appdata.png)
+2. **Navigate to the Following Path**:
+   ```plaintext
+   C:\Users\username\AppData\Local\Programs\Python\Python313\Scripts
 
 - goto following path C:\Users\username\AppData\Local\Programs\Python\Python313\Scripts
 
@@ -37,36 +35,24 @@ file not found It may have been moved, edited, or deleted. ERR_FILE_NOT_FOUND in
                                     └── Scripts
 
 ```
-
 - now copy the path  ```C:\Users\username\AppData\Local\Programs\Python\Python313\Scripts```
-
 - now search envirnoment variable window search.
-<p align="left"> 
-- click open
-
-![env img](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/env.png)
-- envirnoment variable hit ok
   
-![env2 img](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/env2.png)
+- click open
+  
+1. -Search envirnoment variable hit ok
+2. -select envirnoment variable press ok
+3. -in system variable section select path
+4. -click edit and press new.
+   ![env img](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/env.png)
+  ![env2 img align="left"](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/env2.png)
+   ![env3 img](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/env3.png)
+   
+5. - now Paste the path  ```C:\Users\username\AppData\Local\Programs\Python\Python313\Scripts```
+6. - And press ok ok ok ..that's it.
 
-![env3 img](https://github.com/sonuvishwakarmavns/JupyterError/blob/main/env3.png)
-</p>
+Now open Anaconda Navigator and open jupyter notebook this will open easily without any errro..
 
-
-
-- now Paste the path  ```C:\Users\username\AppData\Local\Programs\Python\Python313\Scripts```
-
-- and press ok ok ok ..that's it.
-
-### Problem are solved
-
-
-
-
-
-
-
-
-
+### Hope Your Problem are solved.
 ## Contact
 Your Name - [sonu.vishwakarma1487@gmail.com](mailto:email@example.com)
