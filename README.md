@@ -55,4 +55,4 @@ Now open Anaconda Navigator and open jupyter notebook this will open easily with
 
 ### Hope Your Problem are solved.
 ## Contact
-Your Name - [sonu.vishwakarma1487@gmail.com](mailto:email@example.com)
+My Email [sonu.vishwakarma1487@gmail.com](mailto:email@example.com)
